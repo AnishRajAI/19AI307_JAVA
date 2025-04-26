@@ -17,28 +17,30 @@ d)	Print the calculated area using the System.out.println statement
 a)	Create an instance of the 'Area' class called 'rectangle'
 b)	Call the 'calculateArea' method on the 'rectangle' object
 
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a User Defined Method using Java
-Developed by: 
-RegisterNumber:  
+Developed by: ANISH RAJ P
+RegisterNumber:  212222230010
 */
 ```
 
 ## Sourcecode.java:
-
-
-
-
-
-
+```
+    void calculateArea()
+    {  
+        int side1,side2;
+        double cirarea;
+        side1=10;
+        side2=20;
+        cirarea=side1*side2;
+        System.out.println("Area of Rectangle is "+cirarea);
+    }
+```
 
 ## OUTPUT:
-
+![OUTPUT](4.png)
 
 
 ## RESULT:
