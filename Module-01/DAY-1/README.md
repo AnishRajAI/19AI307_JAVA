@@ -26,7 +26,13 @@ RegisterNumber:
 ```
 
 ## Sourcecode.java:
-
+```
+class Student
+{
+    String name;
+    String address;
+}
+```
 
 
 
@@ -34,7 +40,7 @@ RegisterNumber:
 
 
 ## OUTPUT:
-
+![OUTPUT](1.png)
 
 
 ## RESULT:
