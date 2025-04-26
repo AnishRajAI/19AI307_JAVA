@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d81480b-887f-4a2a-9791-65f18df1834e)# Ex.No:1(C) CONTROL STATEMENTS
+# Ex.No:1(C) CONTROL STATEMENTS
 
 ## AIM:
 To develop a Java program to check given number is zero or not.
