@@ -13,31 +13,43 @@ To write a Java program that reads an array size and elements from the user and 
 8.	After the loop ends, print the smallest number.
 9.	End the program.
 	
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Smallest Element in an Array
-Developed by: 
-RegisterNumber:  
+Developed by: ANISH RAJ P
+RegisterNumber: 212222230010 
 */
 ```
 
 ## Sourcecode.java:
-
-
-
-
-
-
+```
+import java.util.Scanner;
+public class Main
+{
+   public static void main(String[] args)
+   {
+      int tot, i, small;
+      Scanner scan = new Scanner(System.in);
+      tot = scan.nextInt();
+      int[] arr = new int[tot];
+      for(i=0; i<tot; i++)
+         arr[i] = scan.nextInt();
+      
+      small = arr[0];
+      for(i=1; i<tot; i++)
+      {
+         if(small>arr[i])
+            small = arr[i];
+      }
+      
+      System.out.println("Smallest Number = " +small);
+   }
+}
+```
 
 ## OUTPUT:
-
-
+![OUTPUT](7.png)
 
 ## RESULT:
 Thus the java program successfully reads the array size and elements from the user and correctly finds and prints the smallest number in the array.
-
-
-
-
