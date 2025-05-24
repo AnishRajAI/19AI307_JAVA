@@ -1,4 +1,4 @@
-\# Ex.No:3(B) STRING BUFFER IN JAVA
+# Ex.No:3(B) STRING BUFFER IN JAVA
 
 ## AIM:
 To develop a java program use append() method concatenates the given argument with this String and use stringbuffer class.
