@@ -1,4 +1,4 @@
-**# Ex.No:12(C)             JAVA STACK & VECTOR
+# Ex.No:12(C)             JAVA STACK & VECTOR
  ## AIM :
 To write a Java program that reads, prints all elements, and fetches the element at index 3 using the Vector class and its elementAt() method.
 ## ALGORITHM :
